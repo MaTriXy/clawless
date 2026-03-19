@@ -1,5 +1,5 @@
 {
-  "name": "clawless-runtime",
+  "name": "clawcontainer",
   "version": "1.0.0",
   "description": "A serverless browser-based runtime for Claw AI Agents powered by WebContainers",
   "type": "module",
