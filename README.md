@@ -12,6 +12,7 @@
         <li>Complete Audit &amp; Policy driven sandboxing</li>
         <li>Built on <a href="https://gitagent.sh">GitAgent</a> Standard</li>
         <li>Pluggable SDK with template-based agent bootstrapping</li>
+        <li>Secure by design — fully isolated WASM sandbox, no access to host system</li>
       </ul>
     </td>
   </tr>
